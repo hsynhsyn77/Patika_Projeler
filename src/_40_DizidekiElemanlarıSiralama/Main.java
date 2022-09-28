@@ -1,4 +1,4 @@
-package DizidekiElemanlarıSiralama;
+package _40_DizidekiElemanlarıSiralama;
 
 import java.util.Scanner;
 
