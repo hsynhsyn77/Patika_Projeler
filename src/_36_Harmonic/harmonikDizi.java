@@ -1,3 +1,5 @@
+package _36_Harmonic;
+
 public class harmonikDizi {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};
