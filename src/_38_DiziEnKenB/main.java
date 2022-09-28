@@ -1,4 +1,4 @@
-package DiziEnKenB;
+package _38_DiziEnKenB;
 
 import java.util.Arrays;
 import java.util.Scanner;
